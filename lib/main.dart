@@ -8,6 +8,10 @@ fun() {
   print("hello");
 }
 
+fun2() {
+  print("fun 2 added");
+}
+
 class MyHttpOverrides extends HttpOverrides {
   @override
   HttpClient createHttpClient(SecurityContext? context) {
