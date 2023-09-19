@@ -112,4 +112,8 @@ class _MyAppState extends State<MyApp> {
   }
 }
 
-class AlbumTest {}
+class AlbumTest {
+  void fun() {
+    print("branch chnged to album");
+  }
+}
