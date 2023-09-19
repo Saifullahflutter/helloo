@@ -5,3 +5,7 @@ class Counter {
 
   void decrement() => value--;
 }
+
+class CounterClass {
+  int a = 0;
+}
