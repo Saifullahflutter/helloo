@@ -9,3 +9,7 @@ class Counter {
 class CounterClass {
   int a = 0;
 }
+
+class branch1class {}
+
+class branch2class {}
